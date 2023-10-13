@@ -2,7 +2,11 @@
 
 ## About
 
-About your template
+This template is based of the react template (no typescript).
+
+## Using this template
+Open a terminal and run `wails init -n YOUR_PROJECT_NAME -t https://github.com/tonyv2576/react-blank`
+You can also use the `-d` flag to create a project in the current directory `-d ./`
 
 ## Live Development
 
